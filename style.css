@@ -1,0 +1,44 @@
+.meme{
+    
+    height: auto;
+    width: 430px;
+    font-family: 'Libre Baskerville', serif; 
+    
+    margin-top:10%;
+    margin-left: 25%;
+    text-align: center;
+    background-color: 	#a9a9a9;
+    box-shadow: 5px 8px 20px 0px rgba(164, 175, 180, 0.516);
+    
+}
+.image{
+    height: 400px;
+    width: 100%;
+
+}
+body{
+    background-color:#2f4f4f;
+}
+h1{
+    text-transform: uppercase;
+    size: 3rem;
+    letter-spacing: normal;
+}
+.abhi{
+    height: 300px;
+    width: 200px;
+}
+.aka{
+    height: 300px;
+    width: 200px;
+    
+}
+.sonu{
+    height: 300px;
+    width: 200px;
+    
+}
+.para{
+    margin-left: 18%;
+    
+}
